@@ -1,4 +1,4 @@
-<h1 style="font-size: 40px; margin-bottom: 0px;">10.1 RNA-seq alignments</h1>
+<h1 style="font-size: 40px; margin-bottom: 0px;">&#127875;10.1 RNA-seq alignments</h1>
 
 <hr style="margin-left: 0px; border: 0.25px solid; border-color: #000000; width: 100%;"></hr>
 
